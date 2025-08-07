@@ -1,0 +1,11 @@
+
+torch
+stable-baselines3 
+pettingzoo         
+gymnasium 
+matplotlib
+cloudpickle   
+pygame
+supersuit          
+tensorboard      
+numpy             
