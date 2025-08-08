@@ -68,5 +68,3 @@ evalute_independent_ppo.pyの実装をした．
 
 - []     env = ss.pad_observations_v0(env)
     env = ss.pad_action_space_v0(env)の挙動わからん
-
-

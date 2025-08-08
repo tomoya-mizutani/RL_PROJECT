@@ -43,7 +43,6 @@ env = pistonball_v6.env()
 
 agents, num_agents, agent_selction, done, infos, observe(agent), rewards, seed, render(), close()などなど
 
-
 ### Agent Environment Cycle（AEC）について
 
 pettingzooはAECとして設計されている．
@@ -61,4 +60,4 @@ AECモデルは順番性が強く，複雑な環境や進化的ルールを表�
 - [PettingZoo入門(1) マルチエージェント入門](https://note.com/npaka/n/n9b9074b8f916)
 - [PettingZoo入門(2) マルチエージェント入門](https://note.com/npaka/n/n06d8ba36d5bc)
 - [PettingZoo Documentation](https://pettingzoo.farama.org/index.html)
-- [マルチエージェント強化学習環境PettingZoo紹介 ](https://www.toolify.ai/ja/ai-news-jp/%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92%E7%92%B0%E5%A2%83pettingzoo%E7%B4%B9%E4%BB%8B-592521)
+- [マルチエージェント強化学習環境PettingZoo紹介](https://www.toolify.ai/ja/ai-news-jp/%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92%E7%92%B0%E5%A2%83pettingzoo%E7%B4%B9%E4%BB%8B-592521)
